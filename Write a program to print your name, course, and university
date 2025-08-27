@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+
+int main() {
+    printf("My Name is Akshaj Dwivedi\n");
+    printf("I study BTech CSE AI/ML from Chandigarh University.\n");
+    return 0;
